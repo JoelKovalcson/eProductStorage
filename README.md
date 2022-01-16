@@ -23,13 +23,14 @@ The requirements for the project were as follows:
 3. Navigate to this location with a terminal of choice.
 4. Run the command `npm install`.
 5. Provide the `schema.sql` file to `MySQL` through some means (such as command-line) to create the database.
-6. Seed the application with `node run seed` if you want example data, otherwise continue to the next step.
-7. Start the application with `node start`.
-8. Your application is now running a RESTful API locally, you can connect to it through http://localhost:3001/api/.
+6. Setup your `.env` file with your `MySQL` credentials.
+7. Seed the application with `node run seed` if you want example data, otherwise continue to the next step.
+8. Start the application with `node start`.
+9. Your application is now running a RESTful API locally, you can connect to it through http://localhost:3001/api/.
 
 ## Guide
 
-For a visual guide of the above steps, watch [this video](https://youtu.be/).
+For a visual guide of the above steps, watch [this video](https://youtu.be/PDllcoRHRZ4).
 
 ## What I Did
 
